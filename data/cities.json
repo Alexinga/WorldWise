@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-30T15:55:09.859Z",
+      "notes": "Test",
+      "position": {
+        "lat": "41.673495038977784",
+        "lng": "-1.0107421875000002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Azogues",
+      "country": "Ecuador",
+      "emoji": "🇪🇨",
+      "date": "2023-10-30T15:55:34.580Z",
+      "notes": "Test",
+      "position": {
+        "lat": "-2.739313176080966",
+        "lng": "-78.83789062500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Philadelphia",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-30T18:47:07.989Z",
+      "notes": "Where I was born hehe",
+      "position": {
+        "lat": "39.9509580842813",
+        "lng": "-75.60791015625001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Otsuki",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-10-30T18:48:13.249Z",
+      "notes": "My half brother",
+      "position": {
+        "lat": "35.60355038958135",
+        "lng": "138.86718750000003"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Uruacu",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2023-10-30T19:57:23.138Z",
+      "notes": "hehe",
+      "position": {
+        "lat": "-14.554248621396686",
+        "lng": "-49.21875000000001"
+      },
+      "id": 98443202
+    }
+  ]
+}
